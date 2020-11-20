@@ -53,7 +53,13 @@ const questions = [
         name: "license",
         message: "What kind of license would you like to have?",
         name: "license",
-        choices: ['ISC','MIT', 'GPL', 'Apache', 'GNU', 'none']
+        choices: [
+            "ISC",
+            "MIT",
+            "GPL",
+            "Apache",
+            "GNU",
+            "N/A"]
     },
     {
         type: "input",
