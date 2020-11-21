@@ -22,23 +22,27 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Link
-  ${data.url}
+  To Access this application, please use this link: ${data.url}
 
   ## Installation
-   ${data.installation}
+  ${data.installation}
 
   ## Technologies
-  ${data.technology}
+  The technologies I have used in this project are: ${data.technology}
   
   ## Usage
   ${data.usage}
-
 
   ## Tests
   ${data.tests}
 
   ## Contributors
   ${data.contributer}
+
+  ## Contact Me
+  Please contact me here for any questions;    
+  [!GitHub Profile: ${data.username}](https://github.com/${data.username})    
+  Email Address: ${data.email}    
   `
 };
 
