@@ -1,6 +1,7 @@
 //node modules
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateMarkdown = require("./utils/generateMarkdown")
 
 // array of questions for user
 const questions = () =>
@@ -62,13 +63,13 @@ const questions = () =>
         },
         {
             type: "input",
-            message: "Please list the contributers, including yourself.",
-            name: "contributer"
+            message: "What command is used to run a test?",
+            name: "tests",
         },
         {
             type: "input",
-            message: "What command is used to run a test?",
-            name: "tests",
+            message: "Please list the contributers, including yourself.",
+            name: "contributer"
         }
     ]);
 
