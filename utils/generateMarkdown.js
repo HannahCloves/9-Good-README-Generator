@@ -16,7 +16,7 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Tests](#tests)
   - [Contributors](#contributors)
-  - [Details](#details)
+  - [Contact](#contact)
   
   ## Description
   ${data.description}
@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   ## Contributors
   ${data.contributer}
 
-  ## Contact Me
+  ## Contact
   Please contact me here for any questions;    
   [GitHub Profile: ${data.username}](https://github.com/${data.username})    
   Email Address: ${data.email}    

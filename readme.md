@@ -17,7 +17,7 @@
   - [Usage](#usage)
   - [Tests](#tests)
   - [Contributors](#contributors)
-  - [Details](#details)
+  - [Contact](#contact)
   
   ## Description
   a short terminal application that creates a readme using specific questions
