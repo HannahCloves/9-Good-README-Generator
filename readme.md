@@ -11,7 +11,7 @@
   ## Table of Contents
 
   - [Description](#description)
-  - [Link](#url)
+  - [Link](#link)
   - [Installation](#installation)
   - [Technologies](#technologies)
   - [Usage](#usage)
