@@ -5,6 +5,9 @@
   ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg "Liscense Badge")
   [License](https://opensource.org/licenses/ISC)
 
+  ## Demo
+  ![Demo](Assets/demo.gif)
+
   ## Table of Contents
 
   - [Description](#description)
@@ -39,6 +42,6 @@
 
   ## Contact Me
   Please contact me here for any questions;    
-  [!GitHub Profile: HannahCloves](https://github.com/HannahCloves)    
+  [GitHub Profile: HannahCloves](https://github.com/HannahCloves)    
   Email Address: email@email.com    
   
