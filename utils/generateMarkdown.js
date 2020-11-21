@@ -12,7 +12,7 @@ function generateMarkdown(data) {
   - [Description](#description)
   - [Link](#url)
   - [Installation](#installation)
-  - [Technologies](#technolo)
+  - [Technologies](#technologies)
   - [Usage](#usage)
   - [Tests](#tests)
   - [Contributors](#contributors)
