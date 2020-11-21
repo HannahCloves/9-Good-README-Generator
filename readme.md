@@ -40,7 +40,7 @@
   ## Contributors
   Hannah Cloves
 
-  ## Contact Me
+  ## Contact
   Please contact me here for any questions;    
   [GitHub Profile: HannahCloves](https://github.com/HannahCloves)    
   Email Address: email@email.com    
