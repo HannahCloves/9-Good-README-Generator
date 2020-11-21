@@ -2,14 +2,18 @@
 function generateMarkdown(data) {
   return `
   # ${data.title} 
+  
+  ## License
+  ![License: ${data.license}](https://img.shields.io/badge/License-${data.license}-yellow.svg "Liscense Badge")
+  [License](https://opensource.org/licenses/${data.license})
 
   ## Table of Contents
+
   - [Description](#description)
   - [Link](#url)
   - [Installation](#installation)
   - [Technologies](#technolo)
   - [Usage](#usage)
-  - [License](#license)
   - [Tests](#tests)
   - [Contributors](#contributors)
   - [Details](#details)
@@ -29,9 +33,6 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
-  ## License
-  ${data.license}
-  - [License](https://opensource.org/licenses/${data.license})
 
   ## Tests
   ${data.tests}
